@@ -1,0 +1,13 @@
+.resize-image {
+    width: 50%;
+    height: auto;
+    /* set to 'auto' to preserve the aspect ratio of the original image */
+}
+.center-image {
+    display: block;
+/* sets the image to block-level element */
+    margin-left: auto;
+/* centers the image horizontally */
+    margin-right: auto;
+/* centers the image horizontally */
+}
